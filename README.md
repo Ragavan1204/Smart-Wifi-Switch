@@ -1,5 +1,6 @@
 # Smart-Wifi-Switch
-
+I implemented this to my room , I can control my light and fan with my mobile. I can even set a timer for my fan.
+Here, I used Esp8266 wifi module to control the relays. I used MQTT protocol with mosquitto MQTT broker to communicate. For user interface ,I used NODERED dashboard which is running on the IBM cloud.
 
 This is the GUI of Nodered Dashboard
 
